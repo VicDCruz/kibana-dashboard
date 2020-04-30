@@ -1,0 +1,20 @@
+{"index":{"_index":"routerinfo","_id":0}}
+{"mac":"A","email":"a@a.com", "edad":14,"cp":"20001","genero":"m"}
+{"index":{"_index":"routerinfo","_id":1}}
+{"mac":"B","email":"b@b.com", "edad":45,"cp":"10001","genero":"h"}
+{"index":{"_index":"routerinfo","_id":2}}
+{"mac":"C","email":"c@c.com", "edad":67,"cp":"20000","genero":"h"}
+{"index":{"_index":"routerinfo","_id":3}}
+{"mac":"D","email":"d@d.com", "edad":34,"cp":"10000","genero":"m"}
+{"index":{"_index":"routerinfo","_id":4}}
+{"mac":"E","email":"e@e.com", "edad":23,"cp":"20001","genero":"h"}
+{"index":{"_index":"routerinfo","_id":5}}
+{"mac":"F","email":"f@f.com", "edad":43,"cp":"10001","genero":"h"}
+{"index":{"_index":"routerinfo","_id":6}}
+{"mac":"G","email":"g@g.com", "edad":32,"cp":"20000","genero":"m"}
+{"index":{"_index":"routerinfo","_id":7}}
+{"mac":"H","email":"h@h.com", "edad":22,"cp":"10000","genero":"h"}
+{"index":{"_index":"routerinfo","_id":8}}
+{"mac":"I","email":"i@i.com", "edad":41,"cp":"10001","genero":"m"}
+{"index":{"_index":"routerinfo","_id":9}}
+{"mac":"J","email":"j@j.com", "edad":33,"cp":"10000","genero":"m"}
