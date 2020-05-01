@@ -5,70 +5,70 @@
       "email": "a@a.com",
       "edad": 14,
       "cp": "20001",
-      "genero": "m"
+      "genero": "mujer"
     },
     {
       "mac": "B",
       "email": "b@b.com",
       "edad": 45,
       "cp": "10001",
-      "genero": "h"
+      "genero": "hombre"
     },
     {
       "mac": "C",
       "email": "c@c.com",
       "edad": 67,
       "cp": "20000",
-      "genero": "h"
+      "genero": "hombre"
     },
     {
       "mac": "D",
       "email": "d@d.com",
       "edad": 34,
       "cp": "10000",
-      "genero": "m"
+      "genero": "mujer"
     },
     {
       "mac": "E",
       "email": "e@e.com",
       "edad": 23,
       "cp": "20001",
-      "genero": "h"
+      "genero": "hombre"
     },
     {
       "mac": "F",
       "email": "b@b.com",
       "edad": 43,
       "cp": "10001",
-      "genero": "h"
+      "genero": "hombre"
     },
     {
       "mac": "G",
       "email": "b@b.com",
       "edad": 32,
       "cp": "20000",
-      "genero": "m"
+      "genero": "mujer"
     },
     {
-      "mac": "H",
+      "mac": "hombre",
       "email": "b@b.com",
       "edad": 22,
       "cp": "10000",
-      "genero": "h"
+      "genero": "hombre"
     },
     {
       "mac": "I",
       "email": "b@b.com",
       "edad": 41,
       "cp": "10001",
-      "genero": "m"
+      "genero": "mujer"
     },
     {
       "mac": "J",
       "email": "b@b.com",
       "edad": 33,
       "cp": "10000",
-      "genero": "m"
+      "genero": "mujer"
     }
   ]
 }
