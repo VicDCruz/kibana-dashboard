@@ -69,6 +69,13 @@
       "edad": 33,
       "cp": "10000",
       "genero": "mujer"
+    },
+    {
+      "mac": "K",
+      "email": "a@a.com",
+      "edad": 18,
+      "cp": "20000",
+      "genero": "mujer"
     }
   ]
 }
